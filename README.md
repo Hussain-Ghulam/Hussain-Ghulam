@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hussain-Ghulam
-- 👀 I’m interested in Natural Language Processin,Deep Learning,Conversational Agents and Dialogue System.
+- 👀I’m interested in Natural Language Processing, Deep Learning, Conversational Agents and Dialogue System.
 - 📫 How to reach me (nagrigh@gmail.com)
 
 <!---
